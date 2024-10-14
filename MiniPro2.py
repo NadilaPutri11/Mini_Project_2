@@ -28,7 +28,7 @@ def tambah_karyawan():
         "Total Gaji": total_gaji,
     }
     karyawan_list.append(karyawan)
-    print("Nama karyawan baru telah ditambahkan")
+    print("Data karyawan baru telah ditambahkan")
 
 # Fungsi untuk menampilkan data karyawan
 def data_karyawan():
