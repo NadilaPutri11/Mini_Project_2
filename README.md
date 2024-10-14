@@ -78,9 +78,11 @@ Contoh Output:
   - line 113-114 jika user memilih no 3 maka akan diarahkan ke edit_data_karyawan()
 Contoh Output:
 ![Cuplikan layar 2024-10-15 003743](https://github.com/user-attachments/assets/01bca62f-2aac-49be-ae3a-baa123a093e6)
+data yang saya edit hannya nama jadi hanya nama yang berubah, jika memilih jam kerja maka gaji pokok dan total gaji akan berubah, jika merubah jam lembur maka gaji pokok dan gaji lembur lalu ada total gaji yang akan berubah
   - line 115-116 jika user memilih no 4 maka akan diarahkan ke hapus_karyawan()
 Contoh Output:
 ![Cuplikan layar 2024-10-15 003855](https://github.com/user-attachments/assets/2a142abe-3dac-4208-8586-b513f0e82c13)
+cukup mengisi nomor index yang ingin dihapus maka 1 baris dari indeks yang ingin dihapus akan terhapus
   - line 117-118 jika user memilih no 5 maka akan muncul statement "Anda telah keluar dari Menu Admin."
 Contoh Output:
 ![Cuplikan layar 2024-10-15 003954](https://github.com/user-attachments/assets/933df00d-0c1e-4752-aa5e-8ec5225b2e14)
