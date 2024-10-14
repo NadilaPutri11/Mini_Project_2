@@ -1,6 +1,7 @@
 from prettytable import PrettyTable
 
-print("Gaji karyawan Rp 300.000/jam, jika lembur dibayar gaji jam normal + 1/2 kali lipat fari gaji normal unutuk perjam lemburnya, jadi dibayar Rp 450.000/jam untuk jam lembur")
+print("Gaji karyawan Rp 300.000/jam, jika lembur dibayar gaji jam normal + 1/2 kali lipat dari gaji normal untuk perjam lemburnya.")
+print("jadi dibayar Rp 450.000/jam untuk setiap jam lembur")
 karyawan_list = [
     {"ID": 1122, "Nama": "nana", "Jam Kerja Normal" : 40, "Gaji Pokok" : 12000000, "Jam Lembur": 0, "Gaji Lembur" : 0, "Total Gaji" : 12000000 },
     {"ID": 2233, "Nama": "rene", "Jam Kerja Normal" : 35, "Gaji Pokok" : 10500000, "Jam Lembur": 0, "Gaji Lembur" : 0, "Total Gaji" : 10500000 },
