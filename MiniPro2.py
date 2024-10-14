@@ -126,7 +126,7 @@ def admin_menu():
 def karyawan_menu():
     print("\n=== Login Karyawan ===")
     iuser = input("Masukkan nama karyawan: ").lower()
-    karyawan = None
+    karyawan = ""
     for k in karyawan_list:
         if k["Nama"] == iuser:
             karyawan = k
