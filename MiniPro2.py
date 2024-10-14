@@ -180,7 +180,7 @@ def main():
             if pilihan == "1":
                 karyawan_menu()
             elif pilihan == "2":
-                print("Selamat menerima gaji.")
+                print("Anda telah keluar dari program Karyawan.")
                 break
             else:
                 print("Pilihan tidak valid. Silahkan masukkan pilihan yang benar.")
